@@ -1,0 +1,1 @@
+{"name":"@gbrlxvii/ts-ci-check","version":"1.0.0","description":"CI environment validator for TypeScript projects","main":"index.js","keywords":["ci","typescript","environment"],"author":"gbrlxvii","license":"MIT","publishConfig":{"registry":"https://npm.pkg.github.com"}}
